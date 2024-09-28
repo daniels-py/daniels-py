@@ -1,10 +1,6 @@
 # ¡Hola! 👋 Soy Daniel Ramirez
 
 
-ChatGPT
-
-Aquí tienes una versión más concisa y realista de tu descripción:
-
 Desarrollador Junior Full Stack con experiencia en Java, Python, JavaScript, C++ y Dart, y conocimientos en frameworks como Django, Spring Boot y FastAPI. Manejo GitHub para control de versiones y bases de datos como PostgreSQL y MySQL.
 
 Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, siempre con un enfoque en mejorar la experiencia del usuario. Estoy buscando oportunidades para seguir creciendo profesionalmente, aportando mi capacidad de adaptación, aprendizaje rápido y habilidades técnicas.
