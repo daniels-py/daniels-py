@@ -44,6 +44,6 @@ Estoy listo para asumir desafíos y colaborar con equipos, contribuyendo tanto c
 
 ## 📫 Cómo contactar conmigo
 
-- **Email**: [tuemail@example.com](danielramirezs5518@gmail.com)
-- **LinkedIn**: [tu perfil de LinkedIn](https://www.linkedin.com/in/daniel-ramirez-5a1488307/)
+- **Email**: [danielramirezs5518@gmail.com](danielramirezs5518@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/daniel-ramirez-5a1488307/](https://www.linkedin.com/in/daniel-ramirez-5a1488307/)
 
