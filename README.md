@@ -1,12 +1,13 @@
 # ¡Hola! 👋 Soy Daniel Ramirez
 
 
-Desarrollador Junior con enfoque Full Stack. Manejo lenguajes como **Java**, **Python**, **JavaScript**, **C++** y **Dart**, además de frameworks como **Django**, **Spring Boot** y **FastAPI**. Tengo experiencia con **GitHub** para control de versiones y conocimientos sólidos en bases de datos como **PostgreSQL** y **MySQL**.
+ChatGPT
 
-Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para desarrollar soluciones eficientes, siempre enfocado en mejorar la experiencia del usuario. Busco seguir creciendo profesionalmente y aportar valor a la compañía que me contrate, ofreciendo mi capacidad de adaptación, aprendizaje constante y habilidades técnicas.
+Aquí tienes una versión más concisa y realista de tu descripción:
 
-Estoy listo para asumir desafíos y colaborar con equipos, contribuyendo tanto con mi conocimiento como con mi deseo de seguir evolucionando en el campo del desarrollo.
+Desarrollador Junior Full Stack con experiencia en Java, Python, JavaScript, C++ y Dart, y conocimientos en frameworks como Django, Spring Boot y FastAPI. Manejo GitHub para control de versiones y bases de datos como PostgreSQL y MySQL.
 
+Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, siempre con un enfoque en mejorar la experiencia del usuario. Estoy buscando oportunidades para seguir creciendo profesionalmente, aportando mi capacidad de adaptación, aprendizaje rápido y habilidades técnicas.
 
 ## 💻 Tecnologías
 
