@@ -12,8 +12,6 @@ Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, si
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -33,12 +31,15 @@ Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, si
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Herramientas
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Platzi](https://img.shields.io/badge/Platzi-4A154B?style=flat&logo=platzi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 
 ### Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
