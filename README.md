@@ -13,7 +13,6 @@ Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, si
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### Frameworks
