@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Daniel Ramirez
 
 
-Desarrollador Junior Full Stack con experiencia en Java, Python, JavaScript, C++ y Dart, y conocimientos en frameworks como Django, Spring Boot y FastAPI. Manejo GitHub para control de versiones y bases de datos como PostgreSQL y MySQL.
+Desarrollador Junior Full Stack con sólidos fundamentos en Java, Python y JavaScript. Experiencia trabajando con frameworks como Spring Boot, FastAPI, Django y Vue.js. Manejo de bases de datos como PostgreSQL, MySQL y MongoDB, además de herramientas como Bootstrap 5, HTML y CSS, utilizando GitHub para control de versiones.
 
 Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, siempre con un enfoque en mejorar la experiencia del usuario. Estoy buscando oportunidades para seguir creciendo profesionalmente, aportando mi capacidad de adaptación, aprendizaje rápido y habilidades técnicas.
 
