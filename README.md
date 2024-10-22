@@ -23,7 +23,6 @@ Me apasiona aprender nuevas tecnologías y desarrollar soluciones eficientes, si
             <img height="20" src="https://img.shields.io/badge/Django%20REST%20Framework-0076B9?style=flat&logo=django&logoColor=white"/>
             <img height="20" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
             <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
-            <img height="20" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white"/>
             <img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
         </td>
     </tr>
